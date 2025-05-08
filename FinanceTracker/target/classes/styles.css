@@ -1,0 +1,6 @@
+.button {
+    -fx-background-color: #ADD8E6; /* 浅蓝色背景 */
+    -fx-text-fill: white;          /* 白色文字 */
+    -fx-font-size: 14px;
+    -fx-padding: 5px 10px;         /* 内边距 */
+}

@@ -1,0 +1,5 @@
+id,username,passwordHash,email
+b88ac240-532b-4ee6-bc08-9ab64982e724,admin,admin,admin@example.com
+f76c706e-ea67-4c85-a567-fa140d1b8ba7,leiyiming,1,
+e05898df-1813-4908-be1d-c98bf8af812d,rongzhaobo,2,
+170db30a-45d3-4403-a2e1-2987a54afaa1,mjr,123456,
